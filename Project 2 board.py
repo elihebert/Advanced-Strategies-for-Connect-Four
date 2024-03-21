@@ -1,5 +1,3 @@
-#I have neither given nor received unauthorized aid on this assignment.
-#eli hebert
 from player import Player
 from gamestate import GameState
 from MinimaxInfo import MinimaxInfo
