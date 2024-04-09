@@ -1,5 +1,5 @@
 # Advanced-Strategies-for-Connect-Four
-Implement advanced algorithmic strategies for playing Connect Four, a classic two-player connection game.
+Implementation of advanced algorithmic strategies for playing Connect Four, a classic two-player connection game.
 
 # Project: Advanced Strategies for Connect Four
 # Overview
