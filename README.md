@@ -5,9 +5,6 @@ Implementation of advanced algorithmic strategies for playing Connect Four, a cl
 # Overview
 This project aims to explore and implement advanced algorithmic strategies for playing Connect Four, a classic two-player connection game. The project involves developing three versions of the minimax algorithm to understand their impacts on game strategy and performance. These include a basic minimax algorithm, minimax with alpha-beta pruning, and minimax with alpha-beta pruning enhanced by heuristic evaluation.
 
-# Initial Setup
-Starter Code: Starter code in Java and Python is provided, featuring a data model for the Connect Four board. This code serves as a foundation, which you can expand upon.
-Optional User Gameplay: An initial optional task involves creating a user-playable version of Connect Four, facilitating familiarity with the game mechanics and the provided codebase.
 
 # Project Components
 # Basic Minimax
