@@ -33,5 +33,4 @@ Heuristic Evaluation: In Part C, design and implement a heuristic function to es
 # Game Dynamics
 The computer's moves are based on the selected algorithmic strategy, aiming for optimal play based on the current game state.
 Debugging outputs, including minimax values and optimal actions, provide insights into the computer's decision-making process.
-# Conclusion
-This project offers a comprehensive exploration into algorithmic game playing strategies for Connect Four. Through incremental development—from basic minimax to advanced heuristic evaluations—participants will gain a deep understanding of how different algorithms affect gameplay strategy and computational efficiency.
+
